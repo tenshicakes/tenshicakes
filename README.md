@@ -1,8 +1,8 @@
-# Hi 👋, I'm Julian Montalan
+# Hi 👋, I'm Julian Fernando Montalan
 
 ### A Passionate Software Developer
 
-- 👯 I'm looking to collaborate on **Any Projects :>**
+- 👯 I'm looking to collaborate on **Any Projects**
 
 - 💬 Ask me about **Software Development related topics**
 
